@@ -129,15 +129,15 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: 16dba972371697246a03112d4efa5f0f, type: 3}
       propertyPath: m_LocalScale.x
-      value: 0.6
+      value: 0.4
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 16dba972371697246a03112d4efa5f0f, type: 3}
       propertyPath: m_LocalScale.y
-      value: 0.6
+      value: 0.4
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 16dba972371697246a03112d4efa5f0f, type: 3}
       propertyPath: m_LocalScale.z
-      value: 0.6
+      value: 0.4
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 16dba972371697246a03112d4efa5f0f, type: 3}
       propertyPath: m_LocalPosition.x
@@ -671,8 +671,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f1edd69e4e2f8ea4ba0b76d87f2f760a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::movimentacao
-  velocidade: 10
-  velocidadeRotacao: 200
+  velocidade: 15
+  velocidadeRotacao: 300
 --- !u!4 &1213775719 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 16dba972371697246a03112d4efa5f0f, type: 3}
